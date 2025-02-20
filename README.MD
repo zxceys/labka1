@@ -58,7 +58,12 @@ $S_к = R^2 * \pi$
 1. [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
 2.  [Подробная информация об обратных срезах](https://clck.ru/MfEMS)
 3. [Статья о работе с множествами](https://skillbox.ru/media/code/mnozhestva-v-python-vvodnyy-gayd-dlya-nachinayushchikh/)
-
+## Шпаргалка по работе с командами git
+git add - добавление файлов в индекс
+git status - проверка статуса репозитория
+git commit - добавление файлов в репозиторий
+git restote - отмена изменений
+git push - отправка изменений в удаленный репозиторий
 
 
 
