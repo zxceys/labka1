@@ -60,10 +60,10 @@ $S_к = R^2 * \pi$
 3. [Статья о работе с множествами](https://skillbox.ru/media/code/mnozhestva-v-python-vvodnyy-gayd-dlya-nachinayushchikh/)
 ## Шпаргалка по работе с командами git
 git add - добавление файлов в индекс
-git status - проверка статуса репозитория
-git commit - добавление файлов в репозиторий
-git restote - отмена изменений
-git push - отправка изменений в удаленный репозиторий
+git status - проверка статуса репозитория<br>
+git commit - добавление файлов в репозиторий<br>
+git restote - отмена изменений<br>
+git push - отправка изменений в удаленный репозиторий<br>
 
 
 
