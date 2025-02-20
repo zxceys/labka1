@@ -59,7 +59,7 @@ $S_к = R^2 * \pi$
 2.  [Подробная информация об обратных срезах](https://clck.ru/MfEMS)
 3. [Статья о работе с множествами](https://skillbox.ru/media/code/mnozhestva-v-python-vvodnyy-gayd-dlya-nachinayushchikh/)
 ## Шпаргалка по работе с командами git
-git add - добавление файлов в индекс
+git add - добавление файлов в индекс<br>
 git status - проверка статуса репозитория<br>
 git commit - добавление файлов в репозиторий<br>
 git restote - отмена изменений<br>
